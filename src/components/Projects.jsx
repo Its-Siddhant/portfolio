@@ -30,7 +30,7 @@ const projects = [
     type: 'Frontend + ML',
     status: 'LIVE',
     github: 'https://github.com/Its-Siddhant/Suraksha',
-    live: null,
+    live: 'https://suraksha-project.vercel.app/',
   },
 ];
 
